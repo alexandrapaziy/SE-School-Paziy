@@ -1,4 +1,0 @@
-sashka1@gmail.com pass1
-sashka2@gmail.com pass2
-sashka3@gmail.com pass3
-sashka@gmail.com pass
