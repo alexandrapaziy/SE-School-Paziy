@@ -1,0 +1,55 @@
+*{
+	font-family:FreeMono, monospace;
+	font-style: italic;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	height: 75vh;
+	font-family:FreeMono, monospace;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+a{
+	color: #8EDBDA;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+p{
+	margin: 10px 0;
+	color: grey;
+}
+
+.mistake{
+	margin: 10px 0;
+	color: #FF8D8D;
+}
+
+form{
+	display: flex;
+	flex-direction: column;
+	width: 400px; 
+}
+
+input{
+	margin: 10px 0;
+	padding: 10px;
+	border: unset;
+	border-bottom: 2px solid #e3e3e3;
+	outline: none;
+}
+
+button{
+	padding: 10px;
+	background: #8EDBDA;
+	border: unset;
+	cursor: pointer;
+	border-radius: 15px;
+	color:white;
+	font-size: 14pt;
+}
